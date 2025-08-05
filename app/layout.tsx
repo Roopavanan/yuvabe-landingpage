@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Raleway, Open_Sans } from "next/font/google";
 import "./globals.css";
 import Script from "next/script";
+import Analytics from "./analytics"; 
+
 
 const raleway = Raleway({
   variable: "--font-raleway",
@@ -67,6 +69,7 @@ export default function RootLayout({
         </Script>
       </head>
       <body className={`${raleway.variable} ${openSans.variable} antialiased`}>
+        <Analytics />
         {children}
       </body>
     </html>
