@@ -6,9 +6,11 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.3",
     "framer-motion": "^12.10.3",
     "next": "15.3.1",
     "react": "^19.0.0",
