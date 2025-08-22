@@ -84,7 +84,7 @@ export default function HomePage() {
             </div>
 
             <Link
-              href="https://www.yuvabeeducation.com/get-involved/support-us#donation-form"
+              href="https://yuvabeeducation.com/get-involved/donate#donation-form"
               className="bg-yellow-400 hover:bg-yellow-300 transition text-black px-4 py-3 rounded-full font-semibold shadow-sm inline-flex items-center gap-4"
             >
               🖤 Donate
@@ -261,11 +261,10 @@ export default function HomePage() {
               </h2>
             </div>
             <p className="text-gray-700 mb-4 text-center text-md transition-colors duration-300 group-hover:text-white font-secondary">
-              Yuvabe Studios blends creativity with purpose. 
-              Based in Auroville, our team of pros across AI, design, and
-              digital marketing deliver fresh, impactful solutions that push
-              boundaries. Let’s break barriers and create meaningful change
-              together!
+              Yuvabe Studios blends creativity with purpose. Based in Auroville,
+              our team of pros across AI, design, and digital marketing deliver
+              fresh, impactful solutions that push boundaries. Let’s break
+              barriers and create meaningful change together!
             </p>
             <Link
               href="https://www.yuvabestudios.com/"
@@ -473,9 +472,9 @@ export default function HomePage() {
         </h1>
 
         <p className="text-base md:text-lg text-gray-600 max-w-2xl mx-auto mb-10 font-secondary">
-          Whether you&apos; re passionate about education, design, or technology,
-          there&apos;s a place for you at Yuvabe. Explore meaningful career paths and
-          contribute to work that truly matters.
+          Whether you&apos; re passionate about education, design, or
+          technology, there&apos;s a place for you at Yuvabe. Explore meaningful
+          career paths and contribute to work that truly matters.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
